@@ -13,6 +13,7 @@ Github page can be found here: https://github.com/weeyum/newrelic_mongodb
 ## Important
 
 This version supports `newrelic_rpm` 4.3
+
 But this in turn requires `ruby` >= 2.0
 
 ## Installation
