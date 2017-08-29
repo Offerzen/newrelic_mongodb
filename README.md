@@ -5,9 +5,15 @@
 
 New Relic instrumentation for Mongo (2.1.0) / Mongoid (5.x)
 
+## Creator
+
+This gem was forked from and created by weeyum
+Github page can be found here: https://github.com/weeyum/newrelic_mongodb
+
 ## Important
 
-This gem is compatible only with __newrelic_rpm__ >= 3.11
+This version supports `newrelic_rpm` 4.3
+But this in turn requires `ruby` >= 2.0
 
 ## Installation
 
